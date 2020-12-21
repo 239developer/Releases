@@ -1,2 +1,3 @@
-# Releases
-There are releases of my projects
+# Rogue-like game
+I'm too lazy to do 'Help' (button or file) now.
+zzz...
